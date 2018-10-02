@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Alan"></activity>
+        <activity android:name=".Alan" />
+        <activity android:name=".activity_Cole"></activity>
     </application>
 
 </manifest>
